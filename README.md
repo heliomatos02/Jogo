@@ -1,7 +1,6 @@
-# Jogo
+# Jogo Dark POOwer
 Esse jogo foi desenvolvido em JAVA SE.
 O motivo de criar esse jogo era colocar em pratica todo conhecimento teórico que possuo em Orientação a Objeto.
-Não tive a intenção de criar um layout com animações e cheios de efeitos.  
 
 Funcionamento do Jogo:
 
